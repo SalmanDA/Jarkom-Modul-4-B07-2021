@@ -6,6 +6,7 @@
 - Ridho Ajiraga Jagiswara (05111940000170)
 - David Ralphwaldo Martuaraja (05111940000190)
 
+## Topologi CPT
 <img width="740" alt="image" src="https://user-images.githubusercontent.com/73969921/143680439-5cc5ad5b-8433-4a8d-957c-f8f2e3ca42b5.png">
 
 ## VLSM
