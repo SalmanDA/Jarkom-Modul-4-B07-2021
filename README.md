@@ -13,3 +13,12 @@
 <img width="218" alt="image" src="https://user-images.githubusercontent.com/73969921/143680457-b873582e-5831-41c8-ab03-5c89c94c3fe0.png">
 
 <img width="216" alt="image" src="https://user-images.githubusercontent.com/73969921/143681061-d5408dfc-b411-4a8b-afcf-6494a306212e.png">
+
+### Hasil tes Ping
+- JABRA - ENIESLOBBY
+- CIPHER - JORGE
+![Cisco Packet Tracer - C__Users_RIDHOJ~1_AppData_Local_Temp_Rar$DIa808 22808_modul4_b07_vlsm pkt 11_27_2021 4_03_17 PM](https://user-images.githubusercontent.com/75240358/143684130-b3e77c15-2f56-4c16-b914-d336829cce41.png)
+
+- BLUENO - CALMBELT
+- ENIESLOBBY - JIPANGU
+![Cisco Packet Tracer - C__Users_RIDHOJ~1_AppData_Local_Temp_Rar$DIa808 22808_modul4_b07_vlsm pkt 11_27_2021 4_03_06 PM](https://user-images.githubusercontent.com/75240358/143684196-8e864799-db71-4090-bf50-227ce9756d79.png)
