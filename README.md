@@ -27,3 +27,20 @@
 - OIMO - COURTYARD
 - JIPANGU - ALABASTA
 ![tes_ping_oimo_courtyard_jipangu_alabasta](https://user-images.githubusercontent.com/74144561/143685260-6dc1c8d3-7f6d-4230-a3e6-6ce855129fef.png)
+
+## CIDR
+
+### a
+![gns](https://user-images.githubusercontent.com/74144561/143686090-4eea6a10-4ac4-4de6-bac9-21dd953d0452.jpg)
+
+### b
+![gns (1)](https://user-images.githubusercontent.com/74144561/143686094-cfc0dfea-d787-47c4-96e8-f1466bf16ff5.jpg)
+
+### c
+![gns (2)](https://user-images.githubusercontent.com/74144561/143686095-a82264b6-ec3e-42dd-b89f-4b82ebbda644.jpg)
+
+### d
+![gns (3)](https://user-images.githubusercontent.com/74144561/143686097-be1ed26e-609a-47a5-aa69-d65aba9b7b73.jpg)
+
+### e
+![gns (4)](https://user-images.githubusercontent.com/74144561/143686098-76ad1f0b-d922-44ae-b762-955eaa34660a.jpg)
