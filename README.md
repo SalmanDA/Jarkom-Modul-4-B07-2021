@@ -23,3 +23,7 @@
 - BLUENO - CALMBELT
 - ENIESLOBBY - JIPANGU
 ![Cisco Packet Tracer - C__Users_RIDHOJ~1_AppData_Local_Temp_Rar$DIa808 22808_modul4_b07_vlsm pkt 11_27_2021 4_03_06 PM](https://user-images.githubusercontent.com/75240358/143684196-8e864799-db71-4090-bf50-227ce9756d79.png)
+
+- OIMO - COURTYARD
+- JIPANGU - ALABASTA
+![tes_ping_oimo_courtyard_jipangu_alabasta](https://user-images.githubusercontent.com/74144561/143685260-6dc1c8d3-7f6d-4230-a3e6-6ce855129fef.png)
